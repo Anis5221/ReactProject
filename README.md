@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+#Web Application Using React
+
+This is my first React project where i'm using some component 
+and also using React router dom for learning perpose
+using props.
+In this project I'm used Bootstrap 5 
 
 ### `npm start`
 
